@@ -1,0 +1,25 @@
+$bodyFontSize: 45px;
+$font-stack: sans-serif;
+$primary-color: #dd8c8c;
+
+  /* grid items a -f , not quite sure how to convert to square and rectangles */
+  .grid-item-a{
+    grid-column: span 2;
+    }
+    .grid-item-b{
+    grid-row:  span 2;
+    
+    }
+    .grid-item-c{
+    grid-row: span 2;
+    }
+    .grid-item-d{
+    grid-row: span 2;
+    }
+    .grid-item-e{
+    grid-row: span 2;
+    }
+    .grid-item-f{
+    grid-row: span 2;
+    }
+    
